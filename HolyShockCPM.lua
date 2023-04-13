@@ -132,6 +132,7 @@ cpmFrame:SetScript("OnMouseWheel", function(self, delta)
         end
         cpmText:SetFont(font, size, flags)
         cpmTrackerFontString:SetFont(font, size, flags)
+        estimatedCPMFontString:SetFont(font, size, flags)
     else
         local width = self:GetWidth()
         local height = self:GetHeight()
