@@ -1,0 +1,8 @@
+## Interface: 100700
+## Title: HolyShock CPM Tracker
+## Version: 1.0
+## Author: Julien Roy
+## Description: Tracks the click per minute of a spell in real-time.
+
+HolyShockCPM.lua
+
